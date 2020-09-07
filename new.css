@@ -1,0 +1,36 @@
+html
+{
+background-color: grey;
+}
+body
+{
+color:white;
+border: 5px solid black;
+margin:30px 400px;
+width:600px;
+height:500px;
+}
+#mainh
+{
+text-align:center;
+}
+#button
+{
+width:100px;
+margin:100px 250px;
+}
+.container{
+    height: 300px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+    font-size: 72px;
+    text-align: center;
+    margin: 1000px 1000px;
+}
+
+.buttons{
+    text-align: center;
+}
